@@ -2,7 +2,8 @@
 이름 : Puck's Dice <br>
 장르 : `2d` `roguelike` `turn-based` `strategy` `deckbuilding` <br>
 기간 : 2022년 개발, 데모 <br>
-인원 : 1명 
+인원 : 1명 <br>
+개발 : 유니티, C#
 
 ( 현재 Repository에는 사운드 유료에셋 사용으로 인해 소스코드만 등록되어 있습니다. )
 
